@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: barnsey-tran/local-cms
 
 media_folder: media_folder
 
